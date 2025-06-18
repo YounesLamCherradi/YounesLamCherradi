@@ -42,7 +42,7 @@ Current Focus:
 
 <div align="center">
 
-![Security](https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif)
+![Security](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <br>
 
