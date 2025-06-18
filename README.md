@@ -73,102 +73,44 @@ Current Focus:
 
 ---
 
-## 💼 Technical Expertise
+## 💼 Core Competencies & Specializations
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ **Cybersecurity Core**
+### **Security Operations & Analysis**
+![SIEM](https://img.shields.io/badge/SIEM_Management-Expert-2A5298?style=flat-square&logo=elastic&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-Advanced-1e3c72?style=flat-square&logo=shield&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Advanced-0066cc?style=flat-square&logo=search&logoColor=white)
+![Forensics](https://img.shields.io/badge/Digital_Forensics-Intermediate-4a90e2?style=flat-square&logo=magnifying-glass&logoColor=white)
+
+### **Development & Automation**
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Intermediate-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🔍 **Security Tools**
-![Wireshark](https://img.shields.io/badge/Wireshark-Expert-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Advanced-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Intermediate-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Intermediate-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-Advanced-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![APIs](https://img.shields.io/badge/API_Integration-Advanced-FF6B6B?style=flat-square&logo=api&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Intermediate-326CE5?style=flat-square&logo=jenkins&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🌐 **Infrastructure & Networking**
-![Cisco](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-Advanced-607078?style=flat-square&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black)
+### **Network & Infrastructure Security**
+![Cisco](https://img.shields.io/badge/Cisco_Technologies-CCNA_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-Expert-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Advanced-2596CD?style=flat-square&logo=kali-linux&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-Advanced-FF6633?style=flat-square&logo=nessus&logoColor=white)
 
-### 📊 **SIEM & Monitoring**
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-Expert-005571?style=flat-square&logo=elastic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-Intermediate-000000?style=flat-square&logo=splunk&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-Advanced-FF6600?style=flat-square&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Intermediate-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Performance Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**GitHub Activity Overview**
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&hide_border=true&title_color=2A5298&icon_color=1e3c72&text_color=333&bg_color=f8f9fa" />
-
-</td>
-<td align="center" width="50%">
-
-**Contribution Consistency**
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=default&hide_border=true&stroke=2A5298&ring=1e3c72&fire=0066cc&background=f8f9fa" />
+### **Security Architecture & Design**
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Architecture-Intermediate-5B2C6F?style=flat-square&logo=security&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-Intermediate-FF9500?style=flat-square&logo=amazon-aws&logoColor=white)
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-Advanced-E74C3C?style=flat-square&logo=balance-scale&logoColor=white)
+![Compliance](https://img.shields.io/badge/Compliance_Frameworks-Intermediate-27AE60?style=flat-square&logo=check-circle&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=minimal&hide_border=true&area=true&color=2A5298&line=1e3c72&point=0066cc&bg_color=f8f9fa" />
-
-</div>
-
----
-
-## 🎯 Professional Development Roadmap
-
-<div align="center">
-
-```mermaid
-timeline
-    title Cybersecurity Career Progression 2025
-    
-    Q1 2025 : Security+ Certification
-           : Advanced SOC Lab Completion
-           : Malware Analysis Training
-    
-    Q2 2025 : CISSP Preparation
-           : AI Security Research
-           : Industry Conference Speaking
-    
-    Q3 2025 : CEH Certification
-           : Open Source Contributions
-           : Professional Networking
-    
-    Q4 2025 : Senior Role Transition
-           : Team Leadership Experience
-           : Advanced Research Projects
-```
-
-</div>
 
 ---
 
@@ -230,48 +172,48 @@ timeline
 
 ---
 
-## 💡 Current Research & Innovation
+## 🔬 Research & Innovation Focus
 
 <div align="center">
 
-### 🔬 **Active Research Areas**
+<table>
+<tr>
+<td width="50%">
 
-**Machine Learning in Cybersecurity**  
-Developing AI-powered threat detection algorithms for next-generation SOC operations
+### **Artificial Intelligence in Cybersecurity**
+Developing machine learning algorithms for advanced persistent threat detection and behavioral analysis in enterprise environments.
 
-**Side-Channel Attack Analysis**  
-Investigating cache-timing vulnerabilities in modern processor architectures
+### **Network Security Architecture**
+Researching zero-trust implementation strategies and micro-segmentation techniques for critical infrastructure protection.
 
-**Zero-Trust Network Architecture**  
-Designing implementation frameworks for enterprise environments
+</td>
+<td width="50%">
 
-**Automated Incident Response**  
-Creating intelligent playbooks for rapid threat mitigation
+### **Automated Security Operations**
+Creating intelligent orchestration frameworks for incident response and threat mitigation in high-volume SOC environments.
+
+### **Vulnerability Research**
+Investigating side-channel attacks and hardware-level security vulnerabilities in modern computing architectures.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Professional Network
+## 🤝 Professional Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-Professional_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-2A5298?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Academic_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/YOUR-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-2A5298?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
 
 </div>
 
----
 
-<div align="center">
-
-### 📋 **Professional Summary**
-
-*"Dedicated cybersecurity professional with a passion for protecting digital infrastructure through innovative security solutions. Experienced in SOC operations, threat detection, and incident response. Committed to continuous learning and contributing to the cybersecurity community through research and knowledge sharing."*
-
-</div>
 
 ---
 
