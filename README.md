@@ -10,6 +10,16 @@
 
 </div>
 
+## 🤝 Professional Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-2A5298?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
+
+</div>
+
 ---
 
 <table>
