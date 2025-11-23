@@ -7,8 +7,6 @@
 <div align="center">
   <h2 style="color:#00C8FF; font-weight:600;"> Cybersecurity Analyst - Network Engineer - Web Developer</h2>
 </div>
-
-
 ---
 
 <div align="center">
