@@ -1,24 +1,28 @@
-<h1 align="center">Younes Cherradi – Cybersecurity & Network Security Professional</h1>
+<!-- Header -->
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=220&section=header&text=Younes%20Cherradi&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
-<p align="center">
-  Security+ • CCNA • A+ Certified  
-  <br>
-  Cybersecurity Analyst • Network Security • Web Developer
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Network+Security+Specialist;Security%2B+%7C+CCNA+%7C+A%2B+Certified;Web+Developer+%26+System+Hardening)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity and network security professional with additional experience in **web development**.  
-My work focuses on blue-team operations, network defense, log analysis, and building secure web applications.
+I am a **Cybersecurity Analyst & Network Security Professional** with certifications in **Security+**, **CCNA**, and **A+**.  
+I specialize in defending systems, analyzing threats, and building secure web applications.
 
-**What I Do:**
-- Security Analysis & SOC Fundamentals  
-- Network Security & Infrastructure Hardening  
-- Web Development (Backend + Frontend)  
-- Vulnerability Identification & Mitigation  
-- Hands-on Practice: TryHackMe  
+- 🔐 SOC Fundamentals & Security Analysis  
+- 🛡️ Network Security & Infrastructure Hardening  
+- 🌐 Web Development (Secure Backend + Frontend)  
+- 🧪 Hands-on Practice: TryHackMe Blue Team & Red Team  
+- 🖥️ Strong foundation in system troubleshooting & network defense  
 
 ---
 
@@ -30,50 +34,48 @@ My work focuses on blue-team operations, network defense, log analysis, and buil
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Technical Skill Set
 
 ### **Cybersecurity**
-- Security Monitoring & Detection  
-- Log Analysis (Linux, Web Apps, Network Logs)  
-- SIEM Basics (ELK Stack, Splunk Fundamentals)  
-- Vulnerability Scanning & Risk Assessment  
+- SIEM Basics: ELK Stack, Splunk Fundamentals  
+- Threat Detection & Log Analysis  
+- Vulnerability Scanning & Attack Mapping  
 - Incident Response Fundamentals  
+- Linux for Security Operations  
 
 ### **Networking**
 - Routing & Switching (CCNA Level)  
-- TCP/IP, Subnetting, VLANs, ACLs  
-- Packet Inspection (Wireshark)  
-- Network Troubleshooting  
+- TCP/IP, VLANs, ACLs  
+- Wireshark Packet Analysis  
 - Firewall & IDS/IPS Concepts  
 
 ### **Web Development**
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python (Flask, Django basics)  
 - **Databases:** MySQL, MongoDB  
-- **Deployment:** Nginx, Linux servers, basic CI/CD  
+- **Deployment:** Linux Servers, Nginx  
 
 ---
 
-## 🚀 Projects & Practical Work
+## 🚀 Highlighted Projects
 
-| Project / Lab | Description | Skills |
-|---------------|-------------|--------|
-| **SOC Practice Lab** | Basic SIEM monitoring & log analysis with simulated attacks | SIEM, Log Analysis |
-| **Network Security Lab** | VLAN segmentation, ACL rules, secure routing & packet capture review | Networking, Wireshark |
-| **TryHackMe Progress** | Blue & red team hands-on training | Offensive/Defensive Security |
-| **Secure Login System** | Web login system with input validation & basic security hardening | Python, Web Security |
-| **Flask API Project** | REST API with authentication + Nginx deployment | Web Dev, API Design |
-| **Personal Portfolio Website** | Clean & secure personal web portfolio | Frontend, Deployment |
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **SOC Practice Lab** | Simulated SIEM environment with log analysis & alert triage | ELK, Linux |
+| **Network Security Lab** | VLANs, ACLs, secure routing, packet inspection | Cisco, Wireshark |
+| **Secure Login System** | Hardened web authentication system | Python, HTML/CSS |
+| **Flask REST API** | API with secure endpoints + Nginx deployment | Flask, Nginx |
+| **TryHackMe Labs** | Blue/Red team challenges with practical scenarios | THM, Linux |
 
 ---
 
 ## 📈 Current Focus
 
-- Developing better SOC analysis workflows  
+- Improving SOC investigation techniques  
+- Building secure web applications  
 - Enhancing network defense skills  
-- Building web apps with stronger security practices  
-- Advancing on TryHackMe & real-world challenges  
-- Preparing for advanced cybersecurity certifications  
+- Completing advanced TryHackMe pathways  
+- Preparing for more cybersecurity certifications  
 
 ---
 
@@ -84,4 +86,8 @@ My work focuses on blue-team operations, network defense, log analysis, and buil
 
 ---
 
-<p align="center">🔐 Building secure networks and secure applications — one project at a time.</p>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=120&section=footer)
+
+</div>
