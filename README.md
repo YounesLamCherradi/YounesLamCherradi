@@ -3,22 +3,16 @@
 <!-- HEADER ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=240&section=header&text=LAMHAMEDI%20CHERRADI%20Younes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-<!-- MAIN ROLE ANIMATION -->
+<!-- MAIN ROLE ANIMATION (KEEPING THIS ONLY) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1200&color=00C8FF&center=true&vCenter=true&width=780&lines=Cybersecurity+Specialist;SOC+Analyst;Network+Security+Professional;Web+Developer;Linux+Expert;TryHackMe+Active)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me (Animated Title)
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=About+Me)](https://git.io/typing-svg)
-
+  <h2 style="color:#00C8FF; font-weight:600;">👨‍💻 About Me</h2>
 </div>
-
-### 👨‍💻 About Me — Static & Professional
 
 I am a **Cybersecurity and Network Security Specialist** with a strong foundation in **web development**, **networking**, and **Linux systems**.  
 I focus on securing infrastructures, analyzing threats, and building reliable, secure solutions.
@@ -33,7 +27,9 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 
 ---
 
-## 🛡️ Certifications
+<div align="center">
+  <h2 style="color:#00C8FF; font-weight:600;">🛡️ Certifications</h2>
+</div>
 
 <div align="center">
 
@@ -45,30 +41,24 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 
 ---
 
-## 🔧 Technical Skills (Animated Title)
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Technical+Skills)](https://git.io/typing-svg)
-
+  <h2 style="color:#00C8FF; font-weight:600;">🔧 Technical Skills</h2>
 </div>
 
-### 🔧 Technical Skills — Static & Professional
-
-#### **Cybersecurity**
+### **Cybersecurity**
 - Security Analysis & Log Review  
 - SIEM Basics (ELK, Splunk Fundamentals)  
 - Vulnerability Identification  
 - Incident Response Fundamentals  
 - Linux for Security Operations  
 
-#### **Networking**
+### **Networking**
 - Routing & Switching (CCNA Level)  
 - VLANs, ACLs, Subnetting  
 - Packet Inspection (Wireshark)  
 - Firewall / IDS / IPS Concepts  
 
-#### **Web Development**
+### **Web Development**
 - HTML, CSS, JavaScript  
 - Python (Flask, Django basics)  
 - MySQL & MongoDB  
@@ -77,7 +67,9 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+  <h2 style="color:#00C8FF; font-weight:600;">🚀 Featured Projects</h2>
+</div>
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
@@ -89,15 +81,9 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 
 ---
 
-## 📈 Current Focus (Animated Title)
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Current+Focus)](https://git.io/typing-svg)
-
+  <h2 style="color:#00C8FF; font-weight:600;">📈 Current Focus</h2>
 </div>
-
-### 📈 Current Focus — Static
 
 - Improving SOC investigation skills  
 - Advancing network defense techniques  
@@ -107,7 +93,9 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 
 ---
 
-## 📫 Contact
+<div align="center">
+  <h2 style="color:#00C8FF; font-weight:600;">📫 Contact</h2>
+</div>
 
 <div align="center">
 
