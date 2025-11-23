@@ -43,63 +43,73 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
   <img src="https://readme-animated-headings.vercel.app/api/glow?text=Technical%20Skills&color=00C8FF&size=42" />
 </div>
 
----
+<table align="center" width="100%">
+<tr>
 
-# 🛡️ **Cybersecurity Skills (Glassmorphism Card)**
+<!-- ================== Cybersecurity Card ================== -->
+<td width="33%" valign="top" style="padding:10px;">
 
-<table align="center" width="80%" style="border-collapse:collapse;">
-  <tr>
-    <th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
-      🛡 Cybersecurity Skills
-    </th>
-  </tr>
-  <tr>
-    <td style="padding:20px; border:1px solid #1f2a3c; background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; 
+background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
+🛡 Cybersecurity
+</th>
+</tr>
+<tr>
+<td style="padding:20px; border:1px solid #1f2a3c; 
+background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
 
 - Security Analysis & Log Review  
-- SIEM Basics (ELK, Splunk Fundamentals)  
+- SIEM Basics (ELK, Splunk)  
 - Vulnerability Identification  
 - Incident Response Fundamentals  
 - Linux for Security Operations  
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+</td>
 
-# 🌐 **Networking Skills (Glassmorphism Card)**
+<!-- ================== Networking Card ================== -->
+<td width="33%" valign="top" style="padding:10px;">
 
-<table align="center" width="80%" style="border-collapse:collapse;">
-  <tr>
-    <th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
-      🌐 Networking Skills
-    </th>
-  </tr>
-  <tr>
-    <td style="padding:20px; border:1px solid #1f2a3c; background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; 
+background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
+🌐 Networking
+</th>
+</tr>
+<tr>
+<td style="padding:20px; border:1px solid #1f2a3c; 
+background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
 
-- Routing & Switching (CCNA Level)  
+- Routing & Switching (CCNA)  
 - VLANs, ACLs, Subnetting  
 - Packet Inspection (Wireshark)  
 - Firewall / IDS / IPS Concepts  
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+</td>
 
-# 💻 **Web Development Skills (Glassmorphism Card)**
+<!-- ================== Web Development Card ================== -->
+<td width="33%" valign="top" style="padding:10px;">
 
-<table align="center" width="80%" style="border-collapse:collapse;">
-  <tr>
-    <th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
-      💻 Web Development Skills
-    </th>
-  </tr>
-  <tr>
-    <td style="padding:20px; border:1px solid #1f2a3c; background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; 
+background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
+💻 Web Development
+</th>
+</tr>
+<tr>
+<td style="padding:20px; border:1px solid #1f2a3c; 
+background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
 
 - HTML, CSS, JavaScript  
 - Python (Flask, Django basics)  
@@ -107,9 +117,15 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 - APIs & Backend Logic  
 - Nginx deployment on Linux  
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
