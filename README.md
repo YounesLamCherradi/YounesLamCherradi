@@ -4,15 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=240&section=header&text=LAMHAMEDI%20CHERRADI%20Younes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <!-- MAIN ROLE (STATIC BLUE TEXT, NO ANIMATION) -->
+<div align="center">
+  <p style="color:#00C8FF; font-size:24px; font-weight:600;">
+    Cybersecurity Analyst • Network Engineer • Web Developer
+  </p>
+</div>
 
+---
 
-<p align="center">
-  <strong><span style="color:#00C8FF; font-size:24px;">
-  Cybersecurity Analyst • Network Engineer • Web Developer
-  </span></strong>
-</p>
-
-
+<div align="center">
+  <img src="https://readme-animated-headings.vercel.app/api/glow?text=About%20Me&color=00C8FF&size=42" />
+</div>
 ---
 
 <div align="center">
