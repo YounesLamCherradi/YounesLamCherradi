@@ -94,19 +94,69 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
+<!-- PROJECTS HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Projects&fontSize=38&fontColor=ffffff" />
 </div>
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **SOC Monitoring Lab** | SIEM practice, log analysis, alert triage | ELK, Linux |
-| **Network Security Lab** | VLANs, ACLs, secure routing | Cisco, Wireshark |
-| **Secure Login System** | Authentication system | Python, HTML/CSS |
-| **Flask REST API** | API + Nginx deployment | Flask, Nginx |
-| **TryHackMe Labs** | Cybersecurity training | THM |
+<!-- CYBER PROJECT TABLE -->
+<table align="center" width="100%">
+  <thead>
+    <tr style="background-color:#0a1a2f; color:#00C8FF;">
+      <th style="padding:12px; border:1px solid #00314d;">Project</th>
+      <th style="padding:12px; border:1px solid #00314d;">Description</th>
+      <th style="padding:12px; border:1px solid #00314d;">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!-- 1 -->
+    <tr style="background:rgba(0,0,0,0.25);">
+      <td style="padding:10px; border:1px solid #00314d;">
+        <a href="YOUR_LINK" style="color:#00AEEF; font-weight:600;">SOC Monitoring Lab</a>
+      </td>
+      <td style="padding:10px; border:1px solid #00314d;">SIEM practice, log analysis, alert triage</td>
+      <td style="padding:10px; border:1px solid #00314d;">ELK, Linux</td>
+    </tr>
+
+    <!-- 2 -->
+    <tr style="background:rgba(0,0,0,0.20);">
+      <td style="padding:10px; border:1px solid #00314d;">
+        <a href="YOUR_LINK" style="color:#00AEEF; font-weight:600;">Network Security Lab</a>
+      </td>
+      <td style="padding:10px; border:1px solid #00314d;">VLANs, ACLs, secure routing</td>
+      <td style="padding:10px; border:1px solid #00314d;">Cisco, Wireshark</td>
+    </tr>
+
+    <!-- 3 -->
+    <tr style="background:rgba(0,0,0,0.25);">
+      <td style="padding:10px; border:1px solid #00314d;">
+        <a href="YOUR_LINK" style="color:#00AEEF; font-weight:600;">Secure Login System</a>
+      </td>
+      <td style="padding:10px; border:1px solid #00314d;">Authentication system</td>
+      <td style="padding:10px; border:1px solid #00314d;">Python, HTML/CSS</td>
+    </tr>
+
+    <!-- 4 -->
+    <tr style="background:rgba(0,0,0,0.20);">
+      <td style="padding:10px; border:1px solid #00314d;">
+        <a href="YOUR_LINK" style="color:#00AEEF; font-weight:600;">Flask REST API</a>
+      </td>
+      <td style="padding:10px; border:1px solid #00314d;">API + Nginx deployment</td>
+      <td style="padding:10px; border:1px solid #00314d;">Flask, Nginx</td>
+    </tr>
+
+    <!-- 5 -->
+    <tr style="background:rgba(0,0,0,0.25);">
+      <td style="padding:10px; border:1px solid #00314d;">
+        <a href="YOUR_LINK" style="color:#00AEEF; font-weight:600;">TryHackMe Labs</a>
+      </td>
+      <td style="padding:10px; border:1px solid #00314d;">Blue & Red Team cybersecurity training</td>
+      <td style="padding:10px; border:1px solid #00314d;">THM</td>
+    </tr>
+
+  </tbody>
+</table>
 
 ---
 
