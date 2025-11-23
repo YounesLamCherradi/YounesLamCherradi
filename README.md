@@ -45,25 +45,51 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
   <h2 style="color:#00C8FF; font-weight:600;">🔧 Technical Skills</h2>
 </div>
 
-### **Cybersecurity**
+<div align="center">
+
+<!-- ANIMATED CATEGORY: CYBERSECURITY -->
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Cybersecurity&width=600&height=80" />
+
+</div>
+
+### 🛡️ Cybersecurity Skills
 - Security Analysis & Log Review  
 - SIEM Basics (ELK, Splunk Fundamentals)  
 - Vulnerability Identification  
 - Incident Response Fundamentals  
 - Linux for Security Operations  
 
-### **Networking**
+---
+
+<div align="center">
+
+<!-- ANIMATED CATEGORY: NETWORKING -->
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Networking&width=600&height=80" />
+
+</div>
+
+### 🌐 Networking Skills
 - Routing & Switching (CCNA Level)  
 - VLANs, ACLs, Subnetting  
 - Packet Inspection (Wireshark)  
 - Firewall / IDS / IPS Concepts  
 
-### **Web Development**
+---
+
+<div align="center">
+
+<!-- ANIMATED CATEGORY: WEB DEVELOPMENT -->
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Web%20Development&width=600&height=80" />
+
+</div>
+
+### 💻 Web Development Skills
 - HTML, CSS, JavaScript  
 - Python (Flask, Django basics)  
 - MySQL & MongoDB  
 - APIs & Backend Logic  
 - Nginx deployment on Linux  
+
 
 ---
 
