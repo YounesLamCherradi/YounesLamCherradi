@@ -14,16 +14,8 @@
   <img src="https://readme-animated-headings.vercel.app/api/glow?text=About%20Me&color=00C8FF&size=42" />
 </div>
 
-I am a **Cybersecurity and Network Security Specialist** with a strong foundation in **web development**, **networking**, and **Linux systems**.  
-I focus on securing infrastructures, analyzing threats, and building reliable, secure solutions.
+I am a Cybersecurity and Network Security Specialist with a strong foundation in web development, networking, and Linux systems. I focus on protecting digital infrastructures, analyzing security threats, and building secure, reliable solutions. My experience includes Linux administration, security analysis, system hardening, network operations at the CCNA level, and practical cybersecurity training through hands-on labs such as TryHackMe.
 
-- 🛡️ Skilled in Cybersecurity & Network Security  
-- 🐧 Highly proficient in Linux System Administration  
-- 🔍 Strong in Security Analysis & Log Investigation  
-- 💻 Solid foundation in Web Development (Frontend & Backend)  
-- 🌐 Networking Knowledge (CCNA Level)  
-- 🔧 System Hardening, Troubleshooting & Optimization  
-- 🧪 Active on TryHackMe (Blue & Red Team Labs)  
 
 ---
 
