@@ -20,7 +20,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=About%20Me&fontSize=38&fontColor=ffffff" />
 </div>
 
-I am a Cybersecurity and Network Security Specialist with a strong foundation in web development, networking, and Linux systems. I focus on protecting digital infrastructures, analyzing security threats, and building secure, reliable solutions. My experience includes Linux administration, security analysis, system hardening, network operations at the CCNA level, and practical cybersecurity training through hands-on labs such as TryHackMe.
+I am a Cybersecurity and Network Security Specialist with a strong foundation in web development, networking, and Linux systems. I focus on securing infrastructures, analyzing threats, and building reliable, secure solutions. My skills include Linux administration, log analysis, system hardening, CCNA-level networking, and hands-on cybersecurity experience through platforms like TryHackMe.
 
 ---
 
@@ -49,10 +49,10 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <td width="33%" valign="top" style="padding:15px;">
   <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
-    <h3 style="color:#00C8FF; margin:0 0 10px 0;">🛡 Cybersecurity</h3>
+    <h3 style="color:#00C8FF;">🛡 Cybersecurity</h3>
     <div align="left">
       • Security Analysis & Log Review<br>
-      • SIEM Basics (ELK, Splunk)<br>
+      • SIEM (ELK, Splunk)<br>
       • Vulnerability Identification<br>
       • Incident Response Fundamentals<br>
       • Linux for Security Operations
@@ -62,7 +62,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <td width="33%" valign="top" style="padding:15px;">
   <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
-    <h3 style="color:#00C8FF; margin:0 0 10px 0;">🌐 Networking</h3>
+    <h3 style="color:#00C8FF;">🌐 Networking</h3>
     <div align="left">
       • Routing & Switching (CCNA)<br>
       • VLANs, ACLs, Subnetting<br>
@@ -74,13 +74,13 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <td width="33%" valign="top" style="padding:15px;">
   <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
-    <h3 style="color:#00C8FF; margin:0 0 10px 0;">💻 Web Development</h3>
+    <h3 style="color:#00C8FF;">💻 Web Development</h3>
     <div align="left">
       • HTML, CSS, JavaScript<br>
       • Python (Flask, Django)<br>
       • MySQL & MongoDB<br>
       • APIs & Backend Logic<br>
-      • Nginx deployment on Linux
+      • Nginx Deployment on Linux
     </div>
   </div>
 </td>
@@ -98,31 +98,61 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
-<!-- === COMPACT ANIMATED PROJECT CARDS === -->
+<!-- COMPACT ANIMATED PROJECT CARDS -->
+
 <div align="center">
 
-<a href="YOUR_SOC_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=SOC-Lab&theme=tokyonight&title_color=00C8FF&text_color=ffffff&bg_color=0d1117&border_color=00C8FF&icon_color=00C8FF" />
-</a>
+<table>
+<tr>
 
-<a href="YOUR_NETWORK_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=Network-Security-Lab&theme=tokyonight&title_color=00C8FF&text_color=ffffff&bg_color=0d1117&border_color=00C8FF&icon_color=00C8FF" />
-</a>
+<!-- CARD 1 -->
+<td width="33%" align="center" style="padding:10px;">
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=elk&tools=linux&theme=dark" width="250">
+  <h3 style="color:#00C8FF;">🛡 SOC Lab</h3>
+  <p>SIEM | Logs | Alerts</p>
+  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
+</td>
 
-<a href="YOUR_LOGIN_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=Secure-Login-System&theme=tokyonight&title_color=00C8FF&text_color=ffffff&bg_color=0d1117&border_color=00C8FF&icon_color=00C8FF" />
-</a>
+<!-- CARD 2 -->
+<td width="33%" align="center" style="padding:10px;">
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=cisco,wireshark&theme=dark" width="250">
+  <h3 style="color:#00C8FF;">🌐 Network Lab</h3>
+  <p>VLAN | ACL | Routing</p>
+  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
+</td>
 
-<a href="YOUR_API_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=Flask-REST-API&theme=tokyonight&title_color=00C8FF&text_color=ffffff&bg_color=0d1117&border_color=00C8FF&icon_color=00C8FF" />
-</a>
+<!-- CARD 3 -->
+<td width="33%" align="center" style="padding:10px;">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,html&theme=dark" width="250">
+  <h3 style="color:#00C8FF;">🔐 Login System</h3>
+  <p>Authentication & Validation</p>
+  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
+</td>
 
-<a href="YOUR_TRYHACKME_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=TryHackMe-Labs&theme=tokyonight&title_color=00C8FF&text_color=ffffff&bg_color=0d1117&border_color=00C8FF&icon_color=00C8FF" />
-</a>
+</tr>
+
+<tr>
+
+<!-- CARD 4 -->
+<td width="33%" align="center" style="padding:10px;">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python&tools=nginx&theme=dark" width="250">
+  <h3 style="color:#00C8FF;">⚙ Flask REST API</h3>
+  <p>Secure API Deployment</p>
+  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
+</td>
+
+<!-- CARD 5 -->
+<td width="33%" align="center" style="padding:10px;">
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=tryhackme,kali&theme=dark" width="250">
+  <h3 style="color:#00C8FF;">🧪 TryHackMe Labs</h3>
+  <p>Blue & Red Team Labs</p>
+  <a href="#" style="color:#00AEEF;">🔗 View Profile</a>
+</td>
+
+</tr>
+</table>
 
 </div>
-
 
 ---
 
