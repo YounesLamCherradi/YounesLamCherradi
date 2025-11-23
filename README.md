@@ -44,49 +44,51 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:002233&height=110&section=header&text=Technical%20Skills&fontColor=ffffff&fontSize=40" />
 </div>
 
-<table align="center" width="100%">
-<tr>
+<br>
 
-<td width="33%" valign="top" style="padding:15px;">
-  <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
-    <h3 style="color:#00C8FF;">🛡 Cybersecurity</h3>
-    <div align="left">
-      • Security Analysis & Log Review<br>
-      • SIEM (ELK, Splunk)<br>
-      • Vulnerability Identification<br>
-      • Incident Response Fundamentals<br>
-      • Linux for Security Operations
-    </div>
-  </div>
-</td>
+<!-- ===== CYBERSECURITY SKILLS ===== -->
+<h3 align="center" style="color:#00C8FF;">🛡 Cybersecurity</h3>
 
-<td width="33%" valign="top" style="padding:15px;">
-  <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
-    <h3 style="color:#00C8FF;">🌐 Networking</h3>
-    <div align="left">
-      • Routing & Switching (CCNA)<br>
-      • VLANs, ACLs, Subnetting<br>
-      • Packet Inspection (Wireshark)<br>
-      • Firewall / IDS / IPS Concepts
-    </div>
-  </div>
-</td>
+<div align="center">
 
-<td width="33%" valign="top" style="padding:15px;">
-  <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
-    <h3 style="color:#00C8FF;">💻 Web Development</h3>
-    <div align="left">
-      • HTML, CSS, JavaScript<br>
-      • Python (Flask, Django)<br>
-      • MySQL & MongoDB<br>
-      • APIs & Backend Logic<br>
-      • Nginx Deployment on Linux
-    </div>
-  </div>
-</td>
+<img src="https://img.shields.io/badge/Security%20Analysis-00111f?style=for-the-badge&logo=security&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/SIEM%20(ELK%2C%20Splunk)-00111f?style=for-the-badge&logo=elastic&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Vulnerability%20Analysis-00111f?style=for-the-badge&logo=bugcrowd&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Incident%20Response-00111f?style=for-the-badge&logo=linux&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Linux%20Security-00111f?style=for-the-badge&logo=linux&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-</tr>
-</table>
+</div>
+
+<br>
+
+<!-- ===== NETWORKING SKILLS ===== -->
+<h3 align="center" style="color:#00C8FF;">🌐 Networking</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CCNA%20Networking-00111f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/VLANs%20%7C%20ACLs-00111f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Subnetting-00111f?style=for-the-badge&logo=ipfs&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Packet%20Inspection%20(Wireshark)-00111f?style=for-the-badge&logo=wireshark&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Firewall%20%7C%20IDS%20%7C%20IPS-00111f?style=for-the-badge&logo=opnsense&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+</div>
+
+<br>
+
+<!-- ===== WEB DEVELOPMENT SKILLS ===== -->
+<h3 align="center" style="color:#00C8FF;">💻 Web Development</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-00111f?style=for-the-badge&logo=html5&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Flask%20%7C%20Django-00111f?style=for-the-badge&logo=python&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/MySQL%20%7C%20MongoDB-00111f?style=for-the-badge&logo=mysql&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/API%20Development-00111f?style=for-the-badge&logo=fastapi&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Nginx%20on%20Linux-00111f?style=for-the-badge&logo=nginx&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+</div>
+
 
 ---
 
