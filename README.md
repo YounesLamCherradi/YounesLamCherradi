@@ -162,7 +162,7 @@ Nginx deployment on Linux
 <p align="center">
 <strong>LinkedIn:</strong> https://linkedin.com/in/YOUR-PROFILE  
 <br>
-<strong>Email:</strong> your.email@example.com
+<strong>Email:</strong> younes@lamhamedicherradi.com
 </p>
 
 ---
