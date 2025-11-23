@@ -6,11 +6,12 @@
 <!-- MAIN ROLE (STATIC BLUE TEXT, NO ANIMATION) -->
 
 
-<div align="center">
-  <h2 style="color:#00C8FF; font-weight:600;">
-    Cybersecurity Analyst · Network Engineer · Web Developer
-  </h2>
-</div>
+<p align="center">
+  <strong><span style="color:#00C8FF; font-size:24px;">
+  Cybersecurity Analyst • Network Engineer • Web Developer
+  </span></strong>
+</p>
+
 
 ---
 
