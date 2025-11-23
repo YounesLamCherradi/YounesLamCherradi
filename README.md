@@ -12,14 +12,16 @@
 
 ## 👨‍💻 About Me
 
-I am a **Cybersecurity & Network Security Professional** with a strong foundation in **web development**.  
-My focus is on protecting systems, detecting threats, and building secure applications.
+I am a **Cybersecurity and Network Security Specialist** with a strong foundation in **web development**, **networking**, and **Linux systems**.  
+I focus on securing infrastructures, analyzing threats, and building reliable, secure solutions.
 
-- 🛡️ Network Security & SOC Fundamentals  
-- 🔍 Security Analysis & Log Investigation  
-- 💻 Web Development (Frontend + Backend)  
+- 🛡️ Strong in Cybersecurity & Network Security  
+- 🔍 Skilled in Security Analysis & Log Investigation  
+- 💻 Solid foundation in Web Development (Frontend & Backend)  
+- 🧠 Strong Networking Knowledge (CCNA Level)  
+- 🐧 Highly skilled in Linux System Administration  
 - 🧪 Active on TryHackMe (Blue & Red Team Labs)  
-- 🛠️ System Troubleshooting & Hardening  
+- 🛠️ System Troubleshooting, Hardening & Optimization  
 
 ---
 
