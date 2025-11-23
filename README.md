@@ -96,45 +96,103 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Projects&fontSize=38&fontColor=ffffff" />
 </div>
 
-<!-- ROW OF PROJECT CARDS -->
-<div align="center">
+<br>
 
+<div align="center">
 <table>
 <tr>
 
-<!-- CARD 1 -->
+<!-- ========= PROJECT 1 ========= -->
 <td align="center" width="33%">
-  <div style="border:1px solid #00314d; border-radius:12px; padding:15px; background:#0a1a2f; width:260px;">
-    <h3 style="color:#00C8FF;">🛡 SOC Lab</h3>
-    <p>SIEM | Logs | Alerts</p>
-    <p><strong>ELK, Linux</strong></p>
-    <a href="YOUR_LINK" style="color:#00AEEF;">🔗 View</a>
+  <div style="
+      border:1px solid #00314d; 
+      border-radius:12px; 
+      padding:15px; 
+      background:rgba(0, 30, 50, 0.35);
+      width:260px;
+      backdrop-filter:blur(6px);
+  ">
+    <h3 style="color:#00C8FF;">🛡 SOC Monitoring Lab</h3>
+    <p style="color:#ccc; font-size:14px;">Hands-on SIEM lab focusing on log analysis,<br>threat detection & alert triage.</p>
+    <p><strong style="color:white;">ELK Stack • Linux</strong></p>
+    <a href="YOUR_SOC_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
   </div>
 </td>
 
-<!-- CARD 2 -->
+<!-- ========= PROJECT 2 ========= -->
 <td align="center" width="33%">
-  <div style="border:1px solid #00314d; border-radius:12px; padding:15px; background:#0a1a2f; width:260px;">
-    <h3 style="color:#00C8FF;">🌐 Network Lab</h3>
-    <p>VLAN | ACL | Routing</p>
-    <p><strong>Cisco, Wireshark</strong></p>
-    <a href="YOUR_LINK" style="color:#00AEEF;">🔗 View</a>
+  <div style="
+      border:1px solid #00314d; 
+      border-radius:12px; 
+      padding:15px; 
+      background:rgba(0, 30, 50, 0.35);
+      width:260px;
+      backdrop-filter:blur(6px);
+  ">
+    <h3 style="color:#00C8FF;">🌐 Network Security Lab</h3>
+    <p style="color:#ccc; font-size:14px;">Practical networking environment for VLANs,<br>ACLs, routing & packet inspection.</p>
+    <p><strong style="color:white;">Cisco • Wireshark</strong></p>
+    <a href="YOUR_NETWORK_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
   </div>
 </td>
 
-<!-- CARD 3 -->
+<!-- ========= PROJECT 3 ========= -->
 <td align="center" width="33%">
-  <div style="border:1px solid #00314d; border-radius:12px; padding:15px; background:#0a1a2f; width:260px;">
-    <h3 style="color:#00C8FF;">🔐 Login System</h3>
-    <p>Secure Auth | Validation</p>
-    <p><strong>Python, HTML</strong></p>
-    <a href="YOUR_LINK" style="color:#00AEEF;">🔗 View</a>
+  <div style="
+      border:1px solid #00314d; 
+      border-radius:12px; 
+      padding:15px; 
+      background:rgba(0, 30, 50, 0.35);
+      width:260px;
+      backdrop-filter:blur(6px);
+  ">
+    <h3 style="color:#00C8FF;">🔐 Secure Login System</h3>
+    <p style="color:#ccc; font-size:14px;">Custom authentication system with<br>input validation & session security.</p>
+    <p><strong style="color:white;">Python • HTML/CSS</strong></p>
+    <a href="YOUR_LOGIN_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
+  </div>
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ========= PROJECT 4 ========= -->
+<td align="center" width="33%" style="padding-top:20px;">
+  <div style="
+      border:1px solid #00314d; 
+      border-radius:12px; 
+      padding:15px; 
+      background:rgba(0, 30, 50, 0.35);
+      width:260px;
+      backdrop-filter:blur(6px);
+  ">
+    <h3 style="color:#00C8FF;">🔥 Flask REST API</h3>
+    <p style="color:#ccc; font-size:14px;">Lightweight REST API with secure routing<br>& Nginx deployment.</p>
+    <p><strong style="color:white;">Flask • Nginx</strong></p>
+    <a href="YOUR_API_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
+  </div>
+</td>
+
+<!-- ========= PROJECT 5 (TryHackMe) ========= -->
+<td align="center" width="33%" style="padding-top:20px;">
+  <div style="
+      border:1px solid #00314d; 
+      border-radius:12px; 
+      padding:15px; 
+      background:rgba(0, 30, 50, 0.35);
+      width:260px;
+      backdrop-filter:blur(6px);
+  ">
+    <h3 style="color:#00C8FF;">🧩 TryHackMe Labs</h3>
+    <p style="color:#ccc; font-size:14px;">Collection of Blue & Red Team labs covering<br>recon, privilege escalation & exploitation.</p>
+    <p><strong style="color:white;">THM • Attack/Defense</strong></p>
+    <a href="YOUR_TRYHACKME_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Labs</a>
   </div>
 </td>
 
 </tr>
 </table>
-
 </div>
 
 ---
