@@ -38,13 +38,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 ---
 
-<!-- ================= TECHNICAL SKILLS ================= -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,100:4b0082&height=110&section=header&text=Technical%20Skills&fontColor=ffffff&fontSize=40" />
-</div>
-
-<br><br>
 
 <!-- ================= CYBERSECURITY SKILLS (MATCH PROJECT STYLE) ================= -->
 
