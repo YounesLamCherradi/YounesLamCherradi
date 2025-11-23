@@ -20,7 +20,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=About%20Me&fontSize=38&fontColor=ffffff" />
 </div>
 
-I am a Cybersecurity and Network Security Specialist with a strong foundation in web development, networking, and Linux systems. I focus on securing infrastructures, analyzing threats, and building reliable, secure solutions. My skills include Linux administration, log analysis, system hardening, CCNA-level networking, and hands-on cybersecurity experience through platforms like TryHackMe.
+I am a Cybersecurity and Network Security Specialist with a strong foundation in web development, networking, and Linux systems. I focus on protecting digital infrastructures, analyzing threats, and building secure, reliable solutions. My experience includes Linux administration, log analysis, system hardening, CCNA-level networking, and practical cybersecurity training through TryHackMe.
 
 ---
 
@@ -98,59 +98,34 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
-<!-- COMPACT ANIMATED PROJECT CARDS -->
+<!-- =============== CLEAN ANIMATED PROJECTS =============== -->
 
 <div align="center">
 
-<table>
-<tr>
+<!-- SOC LAB -->
+<a href="YOUR_SOC_LINK">
+  <img src="https://img.shields.io/badge/SOC%20Monitoring%20Lab-0a192f?style=for-the-badge&logo=linux&logoColor=00C8FF&labelColor=00111f&color=00111f">
+</a>
 
-<!-- CARD 1 -->
-<td width="33%" align="center" style="padding:10px;">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=elk&tools=linux&theme=dark" width="250">
-  <h3 style="color:#00C8FF;">🛡 SOC Lab</h3>
-  <p>SIEM | Logs | Alerts</p>
-  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
-</td>
+<!-- NETWORK LAB -->
+<a href="YOUR_NETWORK_LINK">
+  <img src="https://img.shields.io/badge/Network%20Security%20Lab-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+</a>
 
-<!-- CARD 2 -->
-<td width="33%" align="center" style="padding:10px;">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=cisco,wireshark&theme=dark" width="250">
-  <h3 style="color:#00C8FF;">🌐 Network Lab</h3>
-  <p>VLAN | ACL | Routing</p>
-  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
-</td>
+<!-- LOGIN SYSTEM -->
+<a href="YOUR_LOGIN_LINK">
+  <img src="https://img.shields.io/badge/Secure%20Login%20System-0a192f?style=for-the-badge&logo=python&logoColor=00C8FF&labelColor=00111f&color=00111f">
+</a>
 
-<!-- CARD 3 -->
-<td width="33%" align="center" style="padding:10px;">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,html&theme=dark" width="250">
-  <h3 style="color:#00C8FF;">🔐 Login System</h3>
-  <p>Authentication & Validation</p>
-  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
-</td>
+<!-- FLASK API -->
+<a href="YOUR_API_LINK">
+  <img src="https://img.shields.io/badge/Flask%20REST%20API-0a192f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
+</a>
 
-</tr>
-
-<tr>
-
-<!-- CARD 4 -->
-<td width="33%" align="center" style="padding:10px;">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python&tools=nginx&theme=dark" width="250">
-  <h3 style="color:#00C8FF;">⚙ Flask REST API</h3>
-  <p>Secure API Deployment</p>
-  <a href="#" style="color:#00AEEF;">🔗 View Project</a>
-</td>
-
-<!-- CARD 5 -->
-<td width="33%" align="center" style="padding:10px;">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=tryhackme,kali&theme=dark" width="250">
-  <h3 style="color:#00C8FF;">🧪 TryHackMe Labs</h3>
-  <p>Blue & Red Team Labs</p>
-  <a href="#" style="color:#00AEEF;">🔗 View Profile</a>
-</td>
-
-</tr>
-</table>
+<!-- TRYHACKME -->
+<a href="YOUR_TRYHACKME_LINK">
+  <img src="https://img.shields.io/badge/TryHackMe%20Labs-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
+</a>
 
 </div>
 
@@ -164,7 +139,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 - SOC investigation improvement  
 - Network defense enhancement  
-- Developing secure web applications  
+- Developing secure web apps  
 - TryHackMe progression  
 - Advanced cybersecurity certifications  
 
