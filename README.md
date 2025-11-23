@@ -132,41 +132,42 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- ================= PROJECTS ================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Projects&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FF7F,100:006644&text=Projects&fontSize=38&fontColor=ffffff" />
 </div>
 
 <br>
 
-<!-- =============== CLEAN ANIMATED PROJECTS =============== -->
+<!-- =============== CLEAN ANIMATED PROJECTS (GREEN STYLE) =============== -->
 
 <div align="center">
 
 <!-- SOC LAB -->
 <a href="YOUR_SOC_LINK">
-  <img src="https://img.shields.io/badge/SOC%20Monitoring%20Lab-0a192f?style=for-the-badge&logo=linux&logoColor=00C8FF&labelColor=00111f&color=00111f">
+  <img src="https://img.shields.io/badge/SOC%20Monitoring%20Lab-0a192f?style=for-the-badge&logo=linux&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
 <!-- NETWORK LAB -->
 <a href="YOUR_NETWORK_LINK">
-  <img src="https://img.shields.io/badge/Network%20Security%20Lab-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+  <img src="https://img.shields.io/badge/Network%20Security%20Lab-0a192f?style=for-the-badge&logo=cisco&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
-<!-- LOGIN SYSTEM -->
+<!-- SECURE LOGIN SYSTEM -->
 <a href="YOUR_LOGIN_LINK">
-  <img src="https://img.shields.io/badge/Secure%20Login%20System-0a192f?style=for-the-badge&logo=python&logoColor=00C8FF&labelColor=00111f&color=00111f">
+  <img src="https://img.shields.io/badge/Secure%20Login%20System-0a192f?style=for-the-badge&logo=python&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
 <!-- FLASK API -->
 <a href="YOUR_API_LINK">
-  <img src="https://img.shields.io/badge/Flask%20REST%20API-0a192f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
+  <img src="https://img.shields.io/badge/Flask%20REST%20API-0a192f?style=for-the-badge&logo=flask&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
-<!-- TRYHACKME -->
+<!-- TRYHACKME LABS -->
 <a href="YOUR_TRYHACKME_LINK">
-  <img src="https://img.shields.io/badge/TryHackMe%20Labs-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
+  <img src="https://img.shields.io/badge/TryHackMe%20Labs-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
 </div>
+
 
 ---
 
