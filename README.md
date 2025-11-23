@@ -38,16 +38,15 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 ---
 
-<!-- TECHNICAL SKILLS HEADER -->
+<!-- ================= TECHNICAL SKILLS ================= -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:002233&height=110&section=header&text=Technical%20Skills&fontColor=ffffff&fontSize=40" />
 </div>
 
-<!-- CARDS GRID -->
 <table align="center" width="100%">
 <tr>
 
-<!-- CYBERSECURITY -->
 <td width="33%" valign="top" style="padding:15px;">
   <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
     <h3 style="color:#00C8FF; margin:0 0 10px 0;">🛡 Cybersecurity</h3>
@@ -61,7 +60,6 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   </div>
 </td>
 
-<!-- NETWORKING -->
 <td width="33%" valign="top" style="padding:15px;">
   <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
     <h3 style="color:#00C8FF; margin:0 0 10px 0;">🌐 Networking</h3>
@@ -74,7 +72,6 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   </div>
 </td>
 
-<!-- WEB DEVELOPMENT -->
 <td width="33%" valign="top" style="padding:15px;">
   <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
     <h3 style="color:#00C8FF; margin:0 0 10px 0;">💻 Web Development</h3>
@@ -91,7 +88,6 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 </tr>
 </table>
 
-
 ---
 
 <!-- ================= PROJECTS ================= -->
@@ -100,49 +96,55 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Projects&fontSize=38&fontColor=ffffff" />
 </div>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=450&lines=My+Cybersecurity+%26+Networking+Projects;Hands-on+Labs+%7C+Real+Infrastructure+Setup;Blue+Team+%7C+Red+Team+%7C+Web+Security" />
+</p>
 
-  <tbody>
+<br>
 
-    <tr>
-      <td><a href="YOUR_LINK">SOC Monitoring Lab</a></td>
-      <td>SIEM practice, log analysis, alert triage</td>
-      <td>ELK, Linux</td>
-    </tr>
+<div align="center">
 
-    <tr>
-      <td><a href="YOUR_LINK">Network Security Lab</a></td>
-      <td>VLANs, ACLs, secure routing</td>
-      <td>Cisco, Wireshark</td>
-    </tr>
+<!-- CARD 1 -->
+<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
+  <h3 style="color:#00C8FF;">🛡 SOC Monitoring Lab</h3>
+  <p>SIEM practice, log analysis, alert triage</p>
+  <p><strong>Tech:</strong> ELK Stack, Linux</p>
+  <a href="YOUR_SOC_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
+</div>
 
-    <tr>
-      <td><a href="YOUR_LINK">Secure Login System</a></td>
-      <td>Authentication system</td>
-      <td>Python, HTML/CSS</td>
-    </tr>
+<!-- CARD 2 -->
+<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
+  <h3 style="color:#00C8FF;">🌐 Network Security Lab</h3>
+  <p>VLANs, ACLs, secure routing, packet inspection</p>
+  <p><strong>Tech:</strong> Cisco, Wireshark</p>
+  <a href="YOUR_NETWORK_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
+</div>
 
-    <tr>
-      <td><a href="YOUR_LINK">Flask REST API</a></td>
-      <td>API + Nginx deployment</td>
-      <td>Flask, Nginx</td>
-    </tr>
+<!-- CARD 3 -->
+<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
+  <h3 style="color:#00C8FF;">🔐 Secure Login System</h3>
+  <p>Safe authentication with validation</p>
+  <p><strong>Tech:</strong> Python, HTML/CSS</p>
+  <a href="YOUR_LOGIN_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
+</div>
 
-    <tr>
-      <td><a href="YOUR_LINK">TryHackMe Labs</a></td>
-      <td>Blue & Red Team cybersecurity training</td>
-      <td>THM</td>
-    </tr>
+<!-- CARD 4 -->
+<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
+  <h3 style="color:#00C8FF;">🚀 Flask REST API</h3>
+  <p>Secure REST API deployed with Nginx</p>
+  <p><strong>Tech:</strong> Flask, Nginx</p>
+  <a href="YOUR_API_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
+</div>
 
-  </tbody>
-</table>
+<!-- CARD 5 -->
+<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
+  <h3 style="color:#00C8FF;">🎯 TryHackMe Labs</h3>
+  <p>Hands-on Blue & Red Team cybersecurity pathways</p>
+  <p><strong>Tech:</strong> THM</p>
+  <a href="YOUR_THM_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Profile</a>
+</div>
+
+</div>
 
 ---
 
@@ -153,10 +155,10 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 </div>
 
 - SOC investigation improvement  
-- Network defense  
-- Secure web applications  
+- Network defense enhancement  
+- Developing secure web applications  
 - TryHackMe progression  
-- Advanced cert preparation  
+- Advanced cybersecurity certifications  
 
 ---
 
