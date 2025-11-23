@@ -96,53 +96,44 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Projects&fontSize=38&fontColor=ffffff" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=450&lines=My+Cybersecurity+%26+Networking+Projects;Hands-on+Labs+%7C+Real+Infrastructure+Setup;Blue+Team+%7C+Red+Team+%7C+Web+Security" />
-</p>
-
-<br>
-
+<!-- ROW OF PROJECT CARDS -->
 <div align="center">
 
+<table>
+<tr>
+
 <!-- CARD 1 -->
-<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
-  <h3 style="color:#00C8FF;">🛡 SOC Monitoring Lab</h3>
-  <p>SIEM practice, log analysis, alert triage</p>
-  <p><strong>Tech:</strong> ELK Stack, Linux</p>
-  <a href="YOUR_SOC_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
-</div>
+<td align="center" width="33%">
+  <div style="border:1px solid #00314d; border-radius:12px; padding:15px; background:#0a1a2f; width:260px;">
+    <h3 style="color:#00C8FF;">🛡 SOC Lab</h3>
+    <p>SIEM | Logs | Alerts</p>
+    <p><strong>ELK, Linux</strong></p>
+    <a href="YOUR_LINK" style="color:#00AEEF;">🔗 View</a>
+  </div>
+</td>
 
 <!-- CARD 2 -->
-<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
-  <h3 style="color:#00C8FF;">🌐 Network Security Lab</h3>
-  <p>VLANs, ACLs, secure routing, packet inspection</p>
-  <p><strong>Tech:</strong> Cisco, Wireshark</p>
-  <a href="YOUR_NETWORK_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
-</div>
+<td align="center" width="33%">
+  <div style="border:1px solid #00314d; border-radius:12px; padding:15px; background:#0a1a2f; width:260px;">
+    <h3 style="color:#00C8FF;">🌐 Network Lab</h3>
+    <p>VLAN | ACL | Routing</p>
+    <p><strong>Cisco, Wireshark</strong></p>
+    <a href="YOUR_LINK" style="color:#00AEEF;">🔗 View</a>
+  </div>
+</td>
 
 <!-- CARD 3 -->
-<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
-  <h3 style="color:#00C8FF;">🔐 Secure Login System</h3>
-  <p>Safe authentication with validation</p>
-  <p><strong>Tech:</strong> Python, HTML/CSS</p>
-  <a href="YOUR_LOGIN_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
-</div>
+<td align="center" width="33%">
+  <div style="border:1px solid #00314d; border-radius:12px; padding:15px; background:#0a1a2f; width:260px;">
+    <h3 style="color:#00C8FF;">🔐 Login System</h3>
+    <p>Secure Auth | Validation</p>
+    <p><strong>Python, HTML</strong></p>
+    <a href="YOUR_LINK" style="color:#00AEEF;">🔗 View</a>
+  </div>
+</td>
 
-<!-- CARD 4 -->
-<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
-  <h3 style="color:#00C8FF;">🚀 Flask REST API</h3>
-  <p>Secure REST API deployed with Nginx</p>
-  <p><strong>Tech:</strong> Flask, Nginx</p>
-  <a href="YOUR_API_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Project</a>
-</div>
-
-<!-- CARD 5 -->
-<div style="width:80%; border:1px solid #00314d; border-radius:12px; padding:20px; background:#0a1a2f; margin-bottom:15px;">
-  <h3 style="color:#00C8FF;">🎯 TryHackMe Labs</h3>
-  <p>Hands-on Blue & Red Team cybersecurity pathways</p>
-  <p><strong>Tech:</strong> THM</p>
-  <a href="YOUR_THM_LINK" style="color:#00AEEF; font-weight:600;">🔗 View Profile</a>
-</div>
+</tr>
+</table>
 
 </div>
 
