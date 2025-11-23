@@ -123,7 +123,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   <img src="https://img.shields.io/badge/Flask%20REST%20API-0a192f?style=for-the-badge&logo=flask&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
-<a href="YOUR_TRYHACKME_LINK">
+<a href="https://tryhackme.com/p/am9uYXM">
   <img src="https://img.shields.io/badge/TryHackMe%20Labs-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00FF7F&labelColor=00111f&color=00111f">
 </a>
 
