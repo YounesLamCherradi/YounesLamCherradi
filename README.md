@@ -4,9 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=240&section=header&text=LAMHAMEDI%20CHERRADI%20Younes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <!-- MAIN ROLE ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1200&color=00C8FF&center=true&vCenter=true&width=780&lines=Cybersecurity+Specialist;SOC+Analyst;Network+Security+Professional;Web+Developer;Linux+Expert;TryHackMe+Active)](https://git.io/typing-svg)
-
+<div align="center">
+  <h2 style="color:#00C8FF; font-weight:600;"> Cybersecurity Analyst - Network Engineer - Web Developer</h2>
 </div>
+
 
 ---
 
