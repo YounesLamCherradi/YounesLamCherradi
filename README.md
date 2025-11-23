@@ -139,21 +139,20 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
-<!-- === CLEAN ANIMATED BADGES (MATCH PROJECT STYLE) === -->
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/SOC%20Investigation-0a192f?style=for-the-badge&logo=security&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/SOC%20Investigation-00111f?style=for-the-badge&logo=shield&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/Network%20Defense-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Network%20Defense-00111f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/Secure%20Web%20Development-0a192f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Secure%20Web%20Development-00111f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/TryHackMe%20Progression-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/TryHackMe%20Progression-00111f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/Advanced%20Certifications-0a192f?style=for-the-badge&logo=graduation-cap&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Advanced%20Certifications-00111f?style=for-the-badge&logo=graduation-cap&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
 </div>
+
  
 
 ---
