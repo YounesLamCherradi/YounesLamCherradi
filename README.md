@@ -46,8 +46,11 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
-<!-- ===== CYBERSECURITY SKILLS ===== -->
-<h3 align="center" style="color:#00C8FF;">🛡 Cybersecurity</h3>
+<!-- ===== CYBERSECURITY SKILLS (NEW HEADER STYLE) ===== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=🛡%20Cybersecurity&fontSize=32&fontColor=ffffff" />
+</div>
 
 <div align="center">
 
@@ -61,8 +64,11 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
-<!-- ===== NETWORKING SKILLS ===== -->
-<h3 align="center" style="color:#00C8FF;">🌐 Networking</h3>
+<!-- ===== NETWORKING SKILLS (NEW HEADER STYLE) ===== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=🌐%20Networking&fontSize=32&fontColor=ffffff" />
+</div>
 
 <div align="center">
 
@@ -76,8 +82,11 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
-<!-- ===== WEB DEVELOPMENT SKILLS ===== -->
-<h3 align="center" style="color:#00C8FF;">💻 Web Development</h3>
+<!-- ===== WEB DEVELOPMENT SKILLS (NEW HEADER STYLE) ===== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=💻%20Web%20Development&fontSize=32&fontColor=ffffff" />
+</div>
 
 <div align="center">
 
@@ -88,6 +97,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <img src="https://img.shields.io/badge/Nginx%20on%20Linux-00111f?style=for-the-badge&logo=nginx&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
 </div>
+
 
 
 ---
