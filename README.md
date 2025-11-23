@@ -38,88 +38,59 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 ---
 
-<!-- ================= TECHNICAL SKILLS ================= -->
-
+<!-- TECHNICAL SKILLS HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Technical%20Skills&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:002233&height=110&section=header&text=Technical%20Skills&fontColor=ffffff&fontSize=40" />
 </div>
 
+<!-- CARDS GRID -->
 <table align="center" width="100%">
 <tr>
 
-<!-- CYBERSECURITY CARD -->
-<td width="33%" valign="top" style="padding:10px;">
-
-<table width="100%">
-<tr>
-<th style="padding:12px; font-size:18px; background:rgba(0, 200, 255, 0.15);">
-🛡 Cybersecurity
-</th>
-</tr>
-<tr>
-<td style="padding:15px; background:rgba(0, 0, 0, 0.25);">
-
-Security Analysis & Log Review  
-SIEM Basics (ELK, Splunk)  
-Vulnerability Identification  
-Incident Response Fundamentals  
-Linux for Security Operations  
-
-</td>
-</tr>
-</table>
-
+<!-- CYBERSECURITY -->
+<td width="33%" valign="top" style="padding:15px;">
+  <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
+    <h3 style="color:#00C8FF; margin:0 0 10px 0;">🛡 Cybersecurity</h3>
+    <div align="left">
+      • Security Analysis & Log Review<br>
+      • SIEM Basics (ELK, Splunk)<br>
+      • Vulnerability Identification<br>
+      • Incident Response Fundamentals<br>
+      • Linux for Security Operations
+    </div>
+  </div>
 </td>
 
-<!-- NETWORKING CARD -->
-<td width="33%" valign="top" style="padding:10px;">
-
-<table width="100%">
-<tr>
-<th style="padding:12px; font-size:18px; background:rgba(0, 200, 255, 0.15);">
-🌐 Networking
-</th>
-</tr>
-<tr>
-<td style="padding:15px; background:rgba(0, 0, 0, 0.25);">
-
-Routing & Switching (CCNA)  
-VLANs, ACLs, Subnetting  
-Packet Inspection (Wireshark)  
-Firewall / IDS / IPS Concepts  
-
-</td>
-</tr>
-</table>
-
+<!-- NETWORKING -->
+<td width="33%" valign="top" style="padding:15px;">
+  <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
+    <h3 style="color:#00C8FF; margin:0 0 10px 0;">🌐 Networking</h3>
+    <div align="left">
+      • Routing & Switching (CCNA)<br>
+      • VLANs, ACLs, Subnetting<br>
+      • Packet Inspection (Wireshark)<br>
+      • Firewall / IDS / IPS Concepts
+    </div>
+  </div>
 </td>
 
-<!-- WEB DEV CARD -->
-<td width="33%" valign="top" style="padding:10px;">
-
-<table width="100%">
-<tr>
-<th style="padding:12px; font-size:18px; background:rgba(0, 200, 255, 0.15);">
-💻 Web Development
-</th>
-</tr>
-<tr>
-<td style="padding:15px; background:rgba(0, 0, 0, 0.25);">
-
-HTML, CSS, JavaScript  
-Python (Flask, Django)  
-MySQL & MongoDB  
-APIs & Backend Logic  
-Nginx deployment on Linux  
-
-</td>
-</tr>
-</table>
-
+<!-- WEB DEVELOPMENT -->
+<td width="33%" valign="top" style="padding:15px;">
+  <div align="center" style="border:1px solid #1f2a3c; border-radius:10px; padding:15px; background:rgba(0,0,0,0.25);">
+    <h3 style="color:#00C8FF; margin:0 0 10px 0;">💻 Web Development</h3>
+    <div align="left">
+      • HTML, CSS, JavaScript<br>
+      • Python (Flask, Django)<br>
+      • MySQL & MongoDB<br>
+      • APIs & Backend Logic<br>
+      • Nginx deployment on Linux
+    </div>
+  </div>
 </td>
 
 </tr>
 </table>
+
 
 ---
 
