@@ -50,15 +50,22 @@ I focus on securing infrastructures, analyzing threats, and building reliable, s
 <!-- ANIMATED CATEGORY: CYBERSECURITY -->
 <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Cybersecurity&width=600&height=80" />
 
-</div>
-
-### 🛡️ Cybersecurity Skills
+<table>
+<tr>
+  <th style="text-align:left; padding:10px; font-size:18px;">🛡 Cybersecurity Skills</th>
+</tr>
+<tr>
+  <td style="padding-left:15px;">
+    
 - Security Analysis & Log Review  
 - SIEM Basics (ELK, Splunk Fundamentals)  
 - Vulnerability Identification  
 - Incident Response Fundamentals  
 - Linux for Security Operations  
 
+  </td>
+</tr>
+</table>
 ---
 
 <div align="center">
