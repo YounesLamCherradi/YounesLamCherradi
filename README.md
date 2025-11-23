@@ -46,17 +46,36 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br><br>
 
-<!-- ===== CYBERSECURITY ===== -->
+<!-- ================= CYBERSECURITY SKILLS (MATCH PROJECT STYLE) ================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0000,100:550000&text=Cybersecurity%20Skills&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F00000,100:7A0000&text=Cybersecurity%20Skills&fontSize=38&fontColor=ffffff" />
 </div>
 
-<p align="center" style="color:#dddddd; font-size:16px;">
-Strong experience in security analysis, threat detection, incident response,
-and Linux-based defensive operations.
-</p>
-
 <br>
+
+<div align="center">
+
+<!-- Security Analysis -->
+<img src="https://img.shields.io/badge/Security%20Analysis-0a192f?style=for-the-badge&logo=security&logoColor=FF4D4D&labelColor=00111f&color=00111f">
+
+<!-- Threat Detection -->
+<img src="https://img.shields.io/badge/Threat%20Detection-0a192f?style=for-the-badge&logo=virus&logoColor=FF4D4D&labelColor=00111f&color=00111f">
+
+<!-- Incident Response -->
+<img src="https://img.shields.io/badge/Incident%20Response-0a192f?style=for-the-badge&logo=linux&logoColor=FF4D4D&labelColor=00111f&color=00111f">
+
+<!-- SIEM -->
+<img src="https://img.shields.io/badge/SIEM%20(ELK%20%7C%20Splunk)-0a192f?style=for-the-badge&logo=elastic&logoColor=FF4D4D&labelColor=00111f&color=00111f">
+
+<!-- Vulnerability Analysis -->
+<img src="https://img.shields.io/badge/Vulnerability%20Analysis-0a192f?style=for-the-badge&logo=bugcrowd&logoColor=FF4D4D&labelColor=00111f&color=00111f">
+
+<!-- Linux Security -->
+<img src="https://img.shields.io/badge/Linux%20Security-0a192f?style=for-the-badge&logo=linux&logoColor=FF4D4D&labelColor=00111f&color=00111f">
+
+</div>
+
 
 <!-- ===== NETWORKING ===== -->
 <div align="center">
