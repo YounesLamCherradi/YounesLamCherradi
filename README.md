@@ -139,35 +139,44 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 
 <br>
 
+<!-- === CLEAN ANIMATED BADGES (MATCH PROJECT STYLE) === -->
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/SOC%20Investigation-00111f?style=for-the-badge&logo=shield&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/SOC%20Investigation-0a192f?style=for-the-badge&logo=security&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/Network%20Defense-00111f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Network%20Defense-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/Secure%20Web%20Development-00111f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Secure%20Web%20Development-0a192f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/TryHackMe%20Progression-00111f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/TryHackMe%20Progression-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
-<img src="https://img.shields.io/badge/Advanced%20Certifications-00111f?style=for-the-badge&logo=graduation-cap&logoColor=00C8FF&labelColor=00111f&color=00111f">
+<img src="https://img.shields.io/badge/Advanced%20Certifications-0a192f?style=for-the-badge&logo=graduation-cap&logoColor=00C8FF&labelColor=00111f&color=00111f">
 
 </div>
 
- 
 
 ---
 
 <!-- ================= CONTACT ================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Contact&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=90:7f00ff,100:4b0082&text=Contact&fontSize=38&fontColor=ffffff" />
 </div>
 
-<p align="center">
-<strong>LinkedIn:</strong> https://linkedin.com/in/YOUR-PROFILE  
 <br>
-<strong>Email:</strong> younes@lamhamedicherradi.com
-</p>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-PROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-240038?style=for-the-badge&logo=linkedin&logoColor=7f00ff&labelColor=0f001f&color=0f001f">
+</a>
+
+<a href="mailto:younes@lamhamedicherradi.com">
+<img src="https://img.shields.io/badge/Email-240038?style=for-the-badge&logo=gmail&logoColor=7f00ff&labelColor=0f001f&color=0f001f">
+</a>
+
+</div>
 
 ---
 
