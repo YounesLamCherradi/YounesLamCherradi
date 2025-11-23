@@ -1,9 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=240&section=header&text=LAMHAMEDI%20CHERRADI%20Younes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
 </div>
 
 <!-- ================= MAIN ROLES ================= -->
@@ -19,7 +17,7 @@
 <!-- ================= ABOUT ME ================= -->
 
 <div align="center">
-  <img src="https://readme-animated-headings.vercel.app/api/glow?text=About%20Me&color=00C8FF&size=42" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=About%20Me&fontSize=38&fontColor=ffffff" />
 </div>
 
 I am a Cybersecurity and Network Security Specialist with a strong foundation in web development, networking, and Linux systems. I focus on protecting digital infrastructures, analyzing security threats, and building secure, reliable solutions. My experience includes Linux administration, security analysis, system hardening, network operations at the CCNA level, and practical cybersecurity training through hands-on labs such as TryHackMe.
@@ -29,7 +27,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- ================= CERTIFICATIONS ================= -->
 
 <div align="center">
-  <img src="https://readme-animated-headings.vercel.app/api/glow?text=Certifications&color=00C8FF&size=42" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Certifications&fontSize=38&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -43,7 +41,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- ================= TECHNICAL SKILLS ================= -->
 
 <div align="center">
-  <img src="https://readme-animated-headings.vercel.app/api/glow?text=Technical%20Skills&color=00C8FF&size=42" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Technical%20Skills&fontSize=38&fontColor=ffffff" />
 </div>
 
 <table align="center" width="100%">
@@ -52,20 +50,20 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- CYBERSECURITY CARD -->
 <td width="33%" valign="top" style="padding:10px;">
 
-<table width="100%" style="border-collapse:collapse;">
+<table width="100%">
 <tr>
-<th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
+<th style="padding:12px; font-size:18px; background:rgba(0, 200, 255, 0.15);">
 🛡 Cybersecurity
 </th>
 </tr>
 <tr>
-<td style="padding:20px; border:1px solid #1f2a3c; background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
+<td style="padding:15px; background:rgba(0, 0, 0, 0.25);">
 
-- Security Analysis & Log Review  
-- SIEM Basics (ELK, Splunk)  
-- Vulnerability Identification  
-- Incident Response Fundamentals  
-- Linux for Security Operations  
+Security Analysis & Log Review  
+SIEM Basics (ELK, Splunk)  
+Vulnerability Identification  
+Incident Response Fundamentals  
+Linux for Security Operations  
 
 </td>
 </tr>
@@ -76,19 +74,19 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- NETWORKING CARD -->
 <td width="33%" valign="top" style="padding:10px;">
 
-<table width="100%" style="border-collapse:collapse;">
+<table width="100%">
 <tr>
-<th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
+<th style="padding:12px; font-size:18px; background:rgba(0, 200, 255, 0.15);">
 🌐 Networking
 </th>
 </tr>
 <tr>
-<td style="padding:20px; border:1px solid #1f2a3c; background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
+<td style="padding:15px; background:rgba(0, 0, 0, 0.25);">
 
-- Routing & Switching (CCNA)  
-- VLANs, ACLs, Subnetting  
-- Packet Inspection (Wireshark)  
-- Firewall / IDS / IPS Concepts  
+Routing & Switching (CCNA)  
+VLANs, ACLs, Subnetting  
+Packet Inspection (Wireshark)  
+Firewall / IDS / IPS Concepts  
 
 </td>
 </tr>
@@ -99,20 +97,20 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- WEB DEV CARD -->
 <td width="33%" valign="top" style="padding:10px;">
 
-<table width="100%" style="border-collapse:collapse;">
+<table width="100%">
 <tr>
-<th style="padding:15px; font-size:18px; border:1px solid #1f2a3c; background:rgba(0, 200, 255, 0.1); backdrop-filter:blur(5px);">
+<th style="padding:12px; font-size:18px; background:rgba(0, 200, 255, 0.15);">
 💻 Web Development
 </th>
 </tr>
 <tr>
-<td style="padding:20px; border:1px solid #1f2a3c; background:rgba(0, 0, 0, 0.25); backdrop-filter:blur(5px);">
+<td style="padding:15px; background:rgba(0, 0, 0, 0.25);">
 
-- HTML, CSS, JavaScript  
-- Python (Flask, Django)  
-- MySQL & MongoDB  
-- APIs & Backend Logic  
-- Nginx deployment on Linux  
+HTML, CSS, JavaScript  
+Python (Flask, Django)  
+MySQL & MongoDB  
+APIs & Backend Logic  
+Nginx deployment on Linux  
 
 </td>
 </tr>
@@ -128,7 +126,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- ================= PROJECTS ================= -->
 
 <div align="center">
-  <img src="https://readme-animated-headings.vercel.app/api/glow?text=Projects&color=00C8FF&size=42" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Projects&fontSize=38&fontColor=ffffff" />
 </div>
 
 | Project | Description | Technologies |
@@ -144,7 +142,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- ================= CURRENT FOCUS ================= -->
 
 <div align="center">
-  <img src="https://readme-animated-headings.vercel.app/api/glow?text=Current%20Focus&color=00C8FF&size=42" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Current%20Focus&fontSize=38&fontColor=ffffff" />
 </div>
 
 - SOC investigation improvement  
@@ -158,7 +156,7 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 <!-- ================= CONTACT ================= -->
 
 <div align="center">
-  <img src="https://readme-animated-headings.vercel.app/api/glow?text=Contact&color=00C8FF&size=42" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Contact&fontSize=38&fontColor=ffffff" />
 </div>
 
 <p align="center">
