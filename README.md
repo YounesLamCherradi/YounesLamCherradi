@@ -137,11 +137,24 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Current%20Focus&fontSize=38&fontColor=ffffff" />
 </div>
 
-- SOC investigation improvement  
-- Network defense enhancement  
-- Developing secure web apps  
-- TryHackMe progression  
-- Advanced cybersecurity certifications  
+<br>
+
+<!-- === CLEAN ANIMATED BADGES (MATCH PROJECT STYLE) === -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SOC%20Investigation-0a192f?style=for-the-badge&logo=security&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<img src="https://img.shields.io/badge/Network%20Defense-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<img src="https://img.shields.io/badge/Secure%20Web%20Development-0a192f?style=for-the-badge&logo=flask&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<img src="https://img.shields.io/badge/TryHackMe%20Progression-0a192f?style=for-the-badge&logo=tryhackme&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<img src="https://img.shields.io/badge/Advanced%20Certifications-0a192f?style=for-the-badge&logo=graduation-cap&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+</div>
+ 
 
 ---
 
