@@ -71,30 +71,60 @@ I am a Cybersecurity and Network Security Specialist with a strong foundation in
 </div>
 
 
-<!-- ===== NETWORKING ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0000,100:550000&text=Networking%20Skills&fontSize=32&fontColor=ffffff" />
-</div>
+<!-- ================= NETWORKING SKILLS ================= -->
 
-<p align="center" style="color:#dddddd; font-size:16px;">
-Skilled in CCNA-level networking, VLANs, ACLs, routing, subnetting,
-and traffic inspection.
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Networking%20Skills&fontSize=38&fontColor=ffffff" />
+</div>
 
 <br>
 
-<!-- ===== WEB DEVELOPMENT ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0000,100:550000&text=Web%20Development%20Skills&fontSize=32&fontColor=ffffff" />
+
+<!-- CCNA -->
+<img src="https://img.shields.io/badge/CCNA%20Networking-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- VLANs / ACLs -->
+<img src="https://img.shields.io/badge/VLANs%20%7C%20ACLs-0a192f?style=for-the-badge&logo=cisco&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- Subnetting -->
+<img src="https://img.shields.io/badge/Subnetting-0a192f?style=for-the-badge&logo=internet-computer&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- Packet Inspection -->
+<img src="https://img.shields.io/badge/Packet%20Inspection%20(Wireshark)-0a192f?style=for-the-badge&logo=wireshark&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- Firewall / IDS / IPS -->
+<img src="https://img.shields.io/badge/Firewall%20%7C%20IDS%20%7C%20IPS-0a192f?style=for-the-badge&logo=opnsense&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
 </div>
 
-<p align="center" style="color:#dddddd; font-size:16px;">
-Solid foundation in HTML, CSS, JavaScript, Flask, Django, APIs, databases,
-and secure backend development.
-</p>
+
+<!-- ================= WEB DEV SKILLS ================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C8FF,100:002233&text=Web%20Development%20Skills&fontSize=38&fontColor=ffffff" />
+</div>
 
 <br>
 
+<div align="center">
+
+<!-- HTML CSS JS -->
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- Python Flask Django -->
+<img src="https://img.shields.io/badge/Python%20%7C%20Flask%20%7C%20Django-0a192f?style=for-the-badge&logo=python&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL%20%7C%20MongoDB-0a192f?style=for-the-badge&logo=mysql&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- APIs -->
+<img src="https://img.shields.io/badge/API%20Development-0a192f?style=for-the-badge&logo=fastapi&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+<!-- Nginx -->
+<img src="https://img.shields.io/badge/Nginx%20on%20Linux-0a192f?style=for-the-badge&logo=nginx&logoColor=00C8FF&labelColor=00111f&color=00111f">
+
+</div>
 
 
 ---
