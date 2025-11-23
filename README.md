@@ -4,6 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=240&section=header&text=LAMHAMEDI%20CHERRADI%20Younes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <!-- MAIN ROLE (STATIC BLUE TEXT, NO ANIMATION) -->
+
+
 <div align="center">
   <h2 style="color:#00C8FF; font-weight:600;">
     Cybersecurity Analyst · Network Engineer · Web Developer
